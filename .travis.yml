@@ -8,6 +8,7 @@ rvm:
 gemfile:
   - gemfiles/activerecord_4_2.gemfile
   - gemfiles/activerecord_5_1.gemfile
+  - gemfiles/activerecord_5_2.gemfile
 
 matrix:
   exclude:
